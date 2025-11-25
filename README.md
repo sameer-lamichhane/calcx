@@ -31,6 +31,8 @@ Calcx is a Flutter app that appears to be a normal calculator but contains a hid
 
 ## Project Structure
 
+
+```
 lib/
 ├── main.dart
 ├── screens/
@@ -47,6 +49,8 @@ lib/
 └── widgets/
 ├── message_bubble.dart
 └── contact_tile.dart
+
+ ```
 
 
 ## Usage
@@ -92,3 +96,4 @@ lib/
 
 ## License
 This project is for educational/demonstration purposes.
+
